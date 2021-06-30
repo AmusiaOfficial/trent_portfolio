@@ -2,7 +2,7 @@
   "name": "gatsby-starter-default",
   "description": "Gatsby default starter",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Trent Yates",
   "dependencies": {
     "gatsby": "^2.20.12",
     "gatsby-plugin-manifest": "^2.3.3",
@@ -21,7 +21,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "format": "prettier --write \"**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
