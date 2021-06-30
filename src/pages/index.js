@@ -19,18 +19,32 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
+              
               <br />
-              magna sed accumsan arcu neque.
+              Creative Web Developer with a passion for Front-End and UX/UI.
             </h2>
           </header>
+
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+            About Me:
+          </p>
+
+          <p>
+            I began my journey after high school attending Clarion University for Physics and Engineering, eventually leaving and beginning a career in the service industry as a Bartender. After 5+ years, with the unfortunate hit of Covid-19, I needed to make a career change and made the decision to return to school and learn a new skill.
+          </p>
+
+          <p>
+            I am now a recent gradaute of the Academy Pittsburgh Web Developer Bootcamp. I enjoy converting data into something visually appealing and easily digestible. I am hard working with a discerning eye for detail, and a drive to deliver high quality work. After 5+ years in the service industry, I enjoy working directly with clients to educate and help bring forward the best products/solutions to fit their needs. I am motivated, enthuastic, and well organised, with a keen eye for modern, beautiful web design.
+
+          </p>
+
+          <p>
+            I am experienced in languages, frameworks, and technologies such as C#, Ruby, JavaScript, JQuery, HTML5, CSS, Bootstrap, React.js, Node.js, Express.js, Angular.js, Restful API's, and SQL. I enjoy Agile Software Development, particulary SCRUM and Design Driven Development.
+
+          </p>
+
+          <p>
+            Outside of work you can find me spending time with my family, making music/preforming as a DJ, and livestreaming. I also enjoy biking, camping, cooking and homebrewing. 
           </p>
           <ul className="actions">
             <li>
@@ -58,9 +72,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
+            Feel free to reach out in regards to any of my previous work, potential contracts and oppurtunites, or further information about myself.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -104,9 +116,9 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  1234 Somewhere Rd.
+                  351 Stratford Avenue
                   <br />
-                  Nashville, TN 00000
+                  Pittsburgh PA, 15232
                   <br />
                   United States
                 </li>
@@ -114,13 +126,13 @@ const HomeIndex = () => {
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  000-000-0000
+                  412-513-1846
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">hello@untitled.tld</a>
+                  <a href="#">tmgyates94@gmail.com</a>
                 </li>
               </ul>
             </div>
