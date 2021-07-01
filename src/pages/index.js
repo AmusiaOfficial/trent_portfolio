@@ -46,16 +46,16 @@ const HomeIndex = () => {
           <p>
             Outside of work you can find me spending time with my family, making music/preforming as a DJ, and livestreaming. I also enjoy biking, camping, cooking and homebrewing. 
           </p>
-          <ul className="actions">
+          {/* <ul className="actions">
             <li>
               <a href="#" className="button">
                 Learn More
               </a>
             </li>
-          </ul>
+          </ul> */}
         </section>
 
-        <section id="two">
+        {/* <section id="two">
           <h2>Recent Work</h2>
 
           <Gallery />
@@ -67,7 +67,7 @@ const HomeIndex = () => {
               </a>
             </li>
           </ul>
-        </section>
+        </section> */}
 
         <section id="three">
           <h2>Get In Touch</h2>
