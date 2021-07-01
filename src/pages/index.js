@@ -29,12 +29,12 @@ const HomeIndex = () => {
             About Me:
           </p>
 
-          <p>
+          {/* <p>
             I began my journey after high school attending Clarion University for Physics and Engineering, eventually leaving and beginning a career in the service industry as a Bartender. After 5+ years, with the unfortunate hit of Covid-19, I needed to make a career change and made the decision to return to school and learn a new skill.
-          </p>
+          </p> */}
 
           <p>
-            I am now a recent gradaute of the Academy Pittsburgh Web Developer Bootcamp. I enjoy converting data into something visually appealing and easily digestible. I am hard working with a discerning eye for detail, and a drive to deliver high quality work. After 5+ years in the service industry, I enjoy working directly with clients to educate and help bring forward the best products/solutions to fit their needs. I am motivated, enthuastic, and well organised, with a keen eye for modern, beautiful web design.
+            I am a recent gradaute of the Academy Pittsburgh Web Developer Bootcamp. I enjoy converting data into something visually appealing and easily digestible. I am hard working with a discerning eye for detail, and a drive to deliver high quality work. After 5+ years in the service industry, I enjoy working directly with clients to educate and help bring forward the best products/solutions to fit their needs. I am motivated, enthuastic, and well organised, with a keen eye for modern, beautiful web design.
 
           </p>
 
