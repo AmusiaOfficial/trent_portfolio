@@ -1,13 +1,13 @@
 import React from 'react'
 
 import Footer from './Footer'
-import avatar from '../assets/images/avatar.jpg'
+import headshot from '../assets/images/headshot.jpg'
 
 const Header = () => (
   <header id="header">
     <div className="inner">
       <a href="#" className="image avatar">
-        <img src={avatar} alt="" />
+        <img src={headshot} alt="" />
       </a>
       <h1>
         <strong>I am Trent Yates</strong>, a Web Developer
