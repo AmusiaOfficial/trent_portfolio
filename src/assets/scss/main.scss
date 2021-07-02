@@ -903,12 +903,12 @@
 		@include vendor('justify-content', 'space-between');
 		background-color:		_palette(accent2, bg);
 		background-attachment:	scroll,								fixed;
-		background-image:		url('images/overlay.png'),			url('../images/bg.jpg');
+		background-image:		url('images/overlay.png'),			url('../images/pgh3_1.jpg');
 		background-position:	top left,							top left;
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								auto;
 		color: _palette(accent2, fg);
-		height: 100%;
+		height: 190%;
 		left: 0;
 		padding: ($size-header-pad * 2) $size-header-pad;
 		position: fixed;
