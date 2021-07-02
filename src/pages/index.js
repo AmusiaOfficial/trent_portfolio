@@ -72,7 +72,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Feel free to reach out in regards to any of my previous work, potential contracts and oppurtunites, or further information about myself.
+            Feel free to reach out in regards to any of my previous work, potential contracts/opportunites, or further information about myself.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
