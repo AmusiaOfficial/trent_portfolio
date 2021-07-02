@@ -12,7 +12,7 @@ const Header = () => (
       <h1>
         <strong>I am Trent Yates</strong>, a Web Developer
         <br />
-          open to work.
+          &nbsp;open to work.
         <br />
         
       </h1>
