@@ -44,7 +44,7 @@ const HomeIndex = () => {
           </p>
 
           <p>
-            Outside of work you can find me spending time with my family, making music/preforming as a DJ, and livestreaming. I also enjoy biking, camping, cooking and homebrewing. 
+            Outside of work you can find me spending time with my family, making music/performing as a DJ, and livestreaming. I also enjoy biking, camping, cooking and homebrewing. 
           </p>
           {/* <ul className="actions">
             <li>
