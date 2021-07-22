@@ -60,6 +60,8 @@ const HomeIndex = () => {
 
           <Gallery />
 
+          WOW FUCK THIS I HATE MY LIFE
+
           <ul className="actions">
             <li>
               <a href="#" className="button">
